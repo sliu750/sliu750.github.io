@@ -17,6 +17,5 @@ Check out my academic and personal projects.
 [Real Estate Analysis with Machine Learning](https://github.com/sliu750/ML4641-Team-Project)
 
 [Data Visualization- Environmental Impacts of Agriculture](https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/)
-![Sample Visualization 1](assets/images/data vis 1.png)
-![Sample Visualization 2](assets/images/data vis 2.png)
-![Sample Visualization 3](assets/images/data vis 3.png)
+
+[Urban Treehuggers- Analyzing Urban Forests and Air Qualityu](https://github.com/sliu750/CSE-6242-Team-Project)

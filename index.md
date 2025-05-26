@@ -11,7 +11,7 @@ I am Sean Liu, a graduate computer science student at Georgia Tech.
 
 [My Resume](Sean_Liu_Resume_F25.pdf)
 
-### Projects
+## Projects
 Check out my academic and personal projects.
 
 [Real Estate Analysis with Machine Learning](https://github.com/sliu750/ML4641-Team-Project)

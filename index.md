@@ -35,3 +35,30 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
     <span>Python</span>
   </div>
 </div>
+
+<style>
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 1em;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  font-size: 1rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.skill img {
+  width: 16px;   /* 👈 Make the Python logo smaller */
+  height: 16px;
+  object-fit: contain;
+}
+</style>

@@ -30,59 +30,18 @@ Urban Treehuggers- ML-powered Analysis of Urban Forests and Air Quality
 Throughout my courses and self-studying, I have gained proficiency in a variety of programming languages, frameworks, and libraries.
 
 <div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/python.png" alt="Python" />
-    <span>Python</span>
-  </div>
+  <div class="skill"><img src="assets/icons/python.png" alt="Python" /><span>Python</span></div>
+  <div class="skill"><img src="assets/icons/java.svg" alt="Java" /><span>Java</span></div>
+  <div class="skill"><img src="assets/icons/C.svg" alt="C" /><span>C</span></div>
+  <div class="skill"><img src="assets/icons/cpp.svg" alt="C++" /><span>C++</span></div>
+  <div class="skill"><img src="assets/icons/csharp.svg" alt="C#" /><span>C#</span></div>
+  <div class="skill"><img src="assets/icons/mysql.svg" alt="MySQL" /><span>MySQL</span></div>
+  <div class="skill"><img src="assets/icons/js.png" alt="JavaScript" /><span>JavaScript</span></div>
 </div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/java.svg" alt="Java" />
-    <span>Java</span>
-  </div>
-</div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/C.svg" alt="C" />
-    <span>C</span>
-  </div>
-</div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/cpp.svg" alt="CPP" />
-    <span>C++</span>
-  </div>
-</div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/csharp.svg" alt="CSharp" />
-    <span>C#</span>
-  </div>
-</div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/mysql.svg" alt="MySQL" />
-    <span>MySQL</span>
-  </div>
-</div>
-
-<div class="skills-grid">
-  <div class="skill">
-    <img src="assets/icons/js.png" alt="JS" />
-    <span>JavaScript</span>
-  </div>
-</div>
-
-
 
 <style>
 .skills-grid {
-  display: flex;
+  display: grid;
   grid-template-columns: repeat(6, 1fr); 
   gap: 20px;
   margin-top: 1em;
@@ -101,7 +60,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 }
 
 .skill img {
-  width: 22px; 
+  width: 22px;
   height: 22px;
   object-fit: contain;
 }

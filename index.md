@@ -37,6 +37,8 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   <div class="skill"><img src="assets/icons/csharp.svg" alt="C#" /><span>C#</span></div>
   <div class="skill"><img src="assets/icons/mysql.svg" alt="MySQL" /><span>MySQL</span></div>
   <div class="skill"><img src="assets/icons/js.png" alt="JavaScript" /><span>JavaScript</span></div>
+  <div class="skill"><img src="assets/icons/R.png" alt="R" /><span>R</span></div>
+  <div class="skill"><img src="assets/icons/go.png" alt="Go" /><span>Go</span></div>
 </div>
 
 <style>

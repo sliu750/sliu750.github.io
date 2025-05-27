@@ -11,6 +11,8 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
 
 [My Resume](Sean_Liu_Resume_F25.pdf)
 
+## Experiences
+
 ## Projects
 Check out my academic and personal projects.
 

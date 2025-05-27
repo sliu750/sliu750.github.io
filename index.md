@@ -39,6 +39,8 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   <div class="skill"><img src="assets/icons/js.png" alt="JavaScript" /><span>JavaScript</span></div>
   <div class="skill"><img src="assets/icons/R.png" alt="R" /><span>R</span></div>
   <div class="skill"><img src="assets/icons/go.png" alt="Go" /><span>Go</span></div>
+  <div class="skill"><img src="assets/icons/matlab.png" alt="MATLAB" /><span>MATLAB</span></div>
+  <div class="skill"><img src="assets/icons/aws.png" alt="AWS" /><span>AWS</span></div>
 </div>
 
 <style>

@@ -50,6 +50,20 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   </div>
 </div>
 
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/cpp.svg" alt="CPP" />
+    <span>C++</span>
+  </div>
+</div>
+
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/csharp.svg" alt="CSharp" />
+    <span>C#</span>
+  </div>
+</div>
+
 <style>
 .skills-grid {
   display: flex;

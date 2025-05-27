@@ -57,8 +57,8 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 }
 
 .skill img {
-  width: 16px;   /* 👈 Make the Python logo smaller */
-  height: 16px;
+  width: 22px;   /* 👈 Make the Python logo smaller */
+  height: 22px;
   object-fit: contain;
 }
 </style>

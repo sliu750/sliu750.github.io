@@ -43,6 +43,13 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   </div>
 </div>
 
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/C.svg" alt="C" />
+    <span>C</span>
+  </div>
+</div>
+
 <style>
 .skills-grid {
   display: flex;

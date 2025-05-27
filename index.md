@@ -39,7 +39,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 <div class="skills-grid">
   <div class="skill">
     <img src="assets/icons/java.svg" alt="Java" />
-    <span>Python</span>
+    <span>Java</span>
   </div>
 </div>
 

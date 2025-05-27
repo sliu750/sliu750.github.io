@@ -4,7 +4,7 @@ title: Sean Liu
 ---
 
 # Hello World
-I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate in December 2025.
+I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate in December 2025. I completed my bachelor's degree in Computer Science at Georgia Tech in May 2024, concentrating in artificial intelligence and information internetworks, with a minor in economics.
 
 ## About Me
 [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/sliu750)
@@ -27,3 +27,11 @@ Urban Treehuggers- ML-powered Analysis of Urban Forests and Air Quality
 [Financial Text Analysis and Summarization](https://fintech-assignment.streamlit.app/)
 
 ## Skills
+Throughout my courses and self-studying, I have gained proficiency in a variety of programming languages, frameworks, and libraries.
+
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/python.png" alt="Python" />
+    <span>Python</span>
+  </div>
+</div>

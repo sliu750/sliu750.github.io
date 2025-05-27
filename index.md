@@ -42,7 +42,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 <style>
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr); 
+  grid-template-columns: repeat(5, 1fr); /* 5 columns */
   gap: 20px;
   margin-top: 1em;
 }
@@ -50,18 +50,28 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 .skill {
   display: flex;
   align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
   gap: 10px;
-  padding: 5px 10px;
+  padding: 8px 10px;
   border: 1px solid #ddd;
   border-radius: 8px;
   background-color: #f9f9f9;
-  font-size: 1rem;
+  font-size: 0.95rem;
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  min-width: 0;
+  word-break: break-word;
+  text-align: center;
 }
 
 .skill img {
   width: 22px;
   height: 22px;
   object-fit: contain;
+}
+
+.skill span {
+  white-space: nowrap;
+  font-size: 0.9rem;
 }
 </style>

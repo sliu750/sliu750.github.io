@@ -64,10 +64,18 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   </div>
 </div>
 
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/mysql.svg" alt="MySQL" />
+    <span>MySQL</span>
+  </div>
+</div>
+
+
 <style>
 .skills-grid {
   display: flex;
-  flex-wrap: wrap;
+  grid-template-columns: repeat(6, 1fr); 
   gap: 20px;
   margin-top: 1em;
 }

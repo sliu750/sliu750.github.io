@@ -71,6 +71,14 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   </div>
 </div>
 
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/js.png" alt="JS" />
+    <span>JavaScript</span>
+  </div>
+</div>
+
+
 
 <style>
 .skills-grid {

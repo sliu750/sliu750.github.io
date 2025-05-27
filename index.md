@@ -36,6 +36,13 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   </div>
 </div>
 
+<div class="skills-grid">
+  <div class="skill">
+    <img src="assets/icons/java.png" alt="Java" />
+    <span>Python</span>
+  </div>
+</div>
+
 <style>
 .skills-grid {
   display: flex;
@@ -57,7 +64,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 }
 
 .skill img {
-  width: 22px;   /* 👈 Make the Python logo smaller */
+  width: 22px; 
   height: 22px;
   object-fit: contain;
 }

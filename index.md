@@ -51,7 +51,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 <style>
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 5 columns */
+  grid-template-columns: repeat(6, 1fr); 
   gap: 20px;
   margin-top: 1em;
 }

@@ -99,6 +99,7 @@ In my free time, I like to exercise, cook new recipes, and learn about breakthro
   grid-template-columns: repeat(5, 1fr); 
   gap: 20px;
   margin-top: 1em;
+  margin-bottom: 3em;
 }
 
 .skill {

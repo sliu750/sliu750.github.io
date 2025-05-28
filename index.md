@@ -22,7 +22,7 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
       <h3>Charles Schwab</h3>
       <p><strong>Software Engineering Intern</strong><br>June 2025 – August 2025</p>
       <ul>
-        <li> Model Risk Oversight department
+        <li> Model Risk Oversight department </li>
       </ul>
     </div>
   </div>

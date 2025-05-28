@@ -13,6 +13,47 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
 
 ## Experiences
 
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/schwab.png" alt="Charles Schwab Logo" class="timeline-logo" />
+      <h3>Charles Schwab</h3>
+      <p><strong>Software Engineering Intern</strong><br>June 2025 – August 2025</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
+      <h3>Georgia Tech Financial Services Innovation Lab</h3>
+      <p><strong>Graduate Research Assistant</strong><br>August 2024 – June 2025</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
+      <h3>Georgia Tech Financial Services Innovation Lab</h3>
+      <p><strong>Volunteer Research Assistant</strong><br>May 2024 – August 2024</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/vip.jpg" alt="VIP Logo" class="timeline-logo" />
+      <h3>Vertically Integrated Project</h3>
+      <p><strong>Researcher</strong><br>August 2022 – December 2023</p>
+    </div>
+  </div>
+
+</div>
+
+
 ## Projects
 Check out my academic and personal projects.
 
@@ -83,5 +124,58 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 .skill span {
   white-space: nowrap;
   font-size: 0.9rem;
+}
+</style>
+
+<style>
+.timeline {
+  position: relative;
+  margin: 2em 0;
+  padding-left: 30px;
+  border-left: 3px solid #ccc;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -10px;
+  top: 0;
+  width: 16px;
+  height: 16px;
+  background: #007acc;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #007acc;
+}
+
+.timeline-content {
+  background: #f9f9f9;
+  padding: 10px 15px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.timeline-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.timeline-content h3 {
+  margin: 0 0 5px;
+  font-size: 1.1rem;
+}
+
+.timeline-content p {
+  margin: 0;
+  font-size: 0.95rem;
 }
 </style>

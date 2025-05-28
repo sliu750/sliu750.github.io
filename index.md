@@ -44,6 +44,8 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   <div class="skill"><img src="assets/icons/tableau.png" alt="Tableau" /><span>Tableau</span></div>
   <div class="skill"><img src="assets/icons/numpy.png" alt="Numpy" /><span>NumPy</span></div>
   <div class="skill"><img src="assets/icons/sklearn.png" alt="sklearn" /><span>sklearn</span></div>
+  <div class="skill"><img src="assets/icons/pytorch.png" alt="pytorch" /><span>PyTorch</span></div>
+  <div class="skill"><img src="assets/icons/tensorflow.png" alt="tensorflow" /><span>TensorFlow</span></div>
 </div>
 
 <style>

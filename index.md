@@ -151,8 +151,8 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 }
 
 .timeline-logo {
-  width: 50px;
-  height: 50px;
+  width: 65px;
+  height: 65px;
   object-fit: contain;
   border-radius: 6px;
 }

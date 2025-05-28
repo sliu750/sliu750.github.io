@@ -140,18 +140,6 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
   margin-bottom: 30px;
 }
 
-.timeline-dot {
-  position: absolute;
-  left: -10px;
-  top: 0;
-  width: 16px;
-  height: 16px;
-  background: #007acc;
-  border-radius: 50%;
-  border: 3px solid #fff;
-  box-shadow: 0 0 0 2px #007acc;
-}
-
 .timeline-content {
   background: #f9f9f9;
   padding: 10px 15px;

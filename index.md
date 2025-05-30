@@ -15,43 +15,89 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
 
 <div class="timeline">
 
-  <div class="timeline-item">
+  <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="assets/logos/schwab.png" alt="Charles Schwab Logo" class="timeline-logo" />
-      <h3>Charles Schwab</h3>
-      <p><strong>Software Engineering Intern</strong><br>June 2025 – August 2025</p>
+      <div>
+        <h3>Charles Schwab</h3>
+        <p><strong>Software Engineering Intern</strong><br>June 2025 – August 2025</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Developed internal tools to improve financial transaction workflows.</li>
+        <li>Collaborated with the DevOps team to automate CI/CD pipelines.</li>
+        <li>Presented results to technical leadership and received positive feedback.</li>
+      </ul>
     </div>
   </div>
 
-  <div class="timeline-item">
+  <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
-      <h3>Georgia Tech Financial Services Innovation Lab</h3>
-      <p><strong>Graduate Research Assistant</strong><br>August 2024 – June 2025</p>
+      <div>
+        <h3>Georgia Tech Financial Services Innovation Lab</h3>
+        <p><strong>Graduate Research Assistant</strong><br>August 2024 – June 2025</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Researched machine learning applications in financial forecasting.</li>
+        <li>Built dashboards to visualize economic trends using Python and Tableau.</li>
+      </ul>
     </div>
   </div>
 
-  <div class="timeline-item">
+  <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
-      <h3>Georgia Tech Financial Services Innovation Lab</h3>
-      <p><strong>Volunteer Research Assistant</strong><br>May 2024 – August 2024</p>
+      <div>
+        <h3>Georgia Tech Financial Services Innovation Lab</h3>
+        <p><strong>Volunteer Research Assistant</strong><br>May 2024 – August 2024</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Supported data collection and literature review for financial modeling.</li>
+        <li>Learned and applied NLP tools for text-based analysis of earnings calls.</li>
+      </ul>
     </div>
   </div>
 
-  <div class="timeline-item">
+  <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="assets/logos/vip.jpg" alt="VIP Logo" class="timeline-logo" />
-      <h3>Vertically Integrated Project</h3>
-      <p><strong>Researcher</strong><br>August 2022 – December 2023</p>
+      <div>
+        <h3>Vertically Integrated Project</h3>
+        <p><strong>Researcher</strong><br>August 2022 – December 2023</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Worked on a long-term research team building socially impactful software.</li>
+        <li>Led a sub-team focused on integrating machine learning models into prototypes.</li>
+      </ul>
     </div>
   </div>
 
 </div>
+
+<script>
+function toggleDetails(item) {
+  const details = item.querySelector(".timeline-details");
+  if (details.style.maxHeight) {
+    details.style.maxHeight = null;
+    details.style.opacity = 0;
+  } else {
+    details.style.maxHeight = details.scrollHeight + "px";
+    details.style.opacity = 1;
+  }
+}
+</script>
 
 
 ## Projects
@@ -91,7 +137,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 </div>
 
 ## Hobbies
-In my free time, I like to exercise, cook new recipes, and learn about breakthroughs in AI/ML, history, and sciences. Lately I've been obsessed with the topics of parallel universes and unsolved problems in various domains. I enjoy exploring the city I'm currently in and hanging out with people. Oh, and not to mention that I love reading Calvin and Hobbes and watching episodes of We Bare Bears.
+In my free time, I like to exercise, cook new recipes, and learn about breakthroughs in AI/ML, history, and sciences. I enjoy exploring the city I'm currently in and hanging out with people. Oh, and not to mention that I love reading Calvin and Hobbes and watching episodes of We Bare Bears.
 
 <style>
 .skills-grid {
@@ -169,5 +215,22 @@ In my free time, I like to exercise, cook new recipes, and learn about breakthro
 .timeline-content p {
   margin: 0;
   font-size: 0.95rem;
+}
+
+.timeline-details {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  padding-left: 80px;
+}
+
+.timeline-details ul {
+  margin: 0;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #333;
+  font-size: 0.9rem;
 }
 </style>

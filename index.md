@@ -85,6 +85,41 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
     </div>
   </div>
 
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/alphamodels.jpg" alt="Alpha Models Logo" class="timeline-logo" />
+      <div>
+        <h3>Alpha Models Inc.</h3>
+        <p><strong>Software Engineering Intern</strong><br>May 2023 – August 2023</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Developed a C++ simulation model for railcar shipments using constrained shortest path algorithm</li>
+        <li>Implemented Java algorithms to solve the Vehicle Routing Problem for planning and scheduling freight railroad maintenance</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/alphamodels.jpg" alt="Alpha Models Logo" class="timeline-logo" />
+      <div>
+        <h3>Alpha Models Inc.</h3>
+        <p><strong>Software Engineering Intern</strong><br>May 2022 – August 2022</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Studied business policies, operational constraints, and government regulations in the railroad transportation industry</li>
+        <li>Analyzed industrial transportation data to evaluate economic performance and regulation appliance</li>
+        <li>Created C++ optimization models using graph algorithms to determine the most efficient rail routeS</li>
+      </ul>
+    </div>
+  </div>
+
 </div>
 
 <script>

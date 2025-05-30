@@ -60,8 +60,9 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Supported data collection and literature review for financial modeling.</li>
-        <li>Learned and applied NLP tools for text-based analysis of earnings calls.</li>
+        <li>Conducted multidisciplinary research between Georgia Tech's College of Computing and College of Business</li>
+        <li>Analyzed the decision-making and predictive abilities of large language models in financial contexts</li>
+        <li>Wrote Python scripts to aggregate financial data and legislation, contributing to training a financial large language model</li>
       </ul>
     </div>
   </div>
@@ -77,8 +78,9 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Worked on a long-term research team building socially impactful software.</li>
-        <li>Led a sub-team focused on integrating machine learning models into prototypes.</li>
+        <li>Collaborated on the Autonomous and Connected Transportation (ACT) Driving Simulator, a faculty-led multidisciplinary project</li>
+        <li>Designed innovative transportation solutions, focusing on accessibility and sustainability in smart cities</li>
+        <li>Created machine learning models in Python to detect driver distraction and predict driver behavior from physiological data, achieving over 80% test accuracy and enhancing road safety</li>
       </ul>
     </div>
   </div>

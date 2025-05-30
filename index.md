@@ -26,9 +26,7 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Developed internal tools to improve financial transaction workflows.</li>
-        <li>Collaborated with the DevOps team to automate CI/CD pipelines.</li>
-        <li>Presented results to technical leadership and received positive feedback.</li>
+        <li>Model Risk Oversight department</li>
       </ul>
     </div>
   </div>
@@ -44,8 +42,9 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Researched machine learning applications in financial forecasting.</li>
-        <li>Built dashboards to visualize economic trends using Python and Tableau.</li>
+        <li>Create tools leveraging artificial intelligence to support financial and economic decision-making</li>
+        <li>Serve as a liaison between the professor, research staff, and interns, facilitating collaboration and communication</li>
+        <li>Supervise 20 research interns, providing technical guidance in data curation, coding, and model and application development</li>
       </ul>
     </div>
   </div>
